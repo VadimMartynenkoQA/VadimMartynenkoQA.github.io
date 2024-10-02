@@ -1,0 +1,56 @@
+[33mcommit 6117ff7104e956c3149c90cc6b072d35bb655929[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 544081e fa584f0
+Author: VadimMartynenkoQA <vmartynenko023@gmail.com>
+Date:   Wed Oct 2 19:29:21 2024 +0300
+
+    Merge pull request #1 from VadimMartynenkoQA/new_branch
+    
+    Добавил параграф QA Engineer в html и Ракету в Кредо в js
+
+[33mcommit fa584f0a2bc177852556cb3f6770c0b765786705[m[33m ([m[1;31morigin/new_branch[m[33m, [m[1;32mnew_branch[m[33m)[m
+Author: Вадим Мартыненко <vmartynenko023@gmail.com>
+Date:   Wed Oct 2 17:29:31 2024 +0300
+
+    Добавил параграф QA Engineer в html и Ракету в Кредо в js
+
+[33mcommit 544081eb5e0d9c9503ca6484b482c90ae7f87787[m
+Author: VadimMartynenkoQA <vmartynenko023@gmail.com>
+Date:   Tue Sep 24 18:19:39 2024 +0300
+
+    Update index.html
+
+[33mcommit 22a2e356976476769ac490a407833a032eae7308[m
+Author: VadimMartynenkoQA <vmartynenko023@gmail.com>
+Date:   Tue Sep 24 15:26:49 2024 +0300
+
+    Update README.md
+
+[33mcommit c0eb0caa12ca2e1a9f8b8bfbfa12c320eb7d683c[m
+Author: VadimMartynenkoQA <vmartynenko023@gmail.com>
+Date:   Tue Sep 24 15:23:54 2024 +0300
+
+    Update index.html
+
+[33mcommit 7ef33ec2ff57e8927cc539c300bb3a56d8a2914a[m
+Author: VadimMartynenkoQA <vmartynenko023@gmail.com>
+Date:   Tue Sep 24 15:23:23 2024 +0300
+
+    Add files via upload
+
+[33mcommit 37d85de03229c145df5ca718c86632b809db3a0d[m
+Author: VadimMartynenkoQA <vmartynenko023@gmail.com>
+Date:   Tue Sep 24 15:22:04 2024 +0300
+
+    Delete favicon.png
+
+[33mcommit 313b0269b5bac4925f4e07c404b846053c03ebf4[m
+Author: VadimMartynenkoQA <vmartynenko023@gmail.com>
+Date:   Tue Sep 24 15:02:31 2024 +0300
+
+    Update index.html
+
+[33mcommit 282ad4df056906987ee68f84f11b129f7af4adba[m
+Author: VadimMartynenkoQA <vmartynenko023@gmail.com>
+Date:   Tue Sep 24 14:53:44 2024 +0300
+
+    Файлы сайта-визитки
