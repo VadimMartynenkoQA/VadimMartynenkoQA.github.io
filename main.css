@@ -7,7 +7,6 @@ body {
   margin-left: 80px;
 }
 
-
 a {
   display: block;
   text-decoration: none;
@@ -15,11 +14,9 @@ a {
   position: relative;
 }
 
-
 a:hover {
   color: #FFD700;
 }
-
 
 a::after {
   content: '';
@@ -37,9 +34,8 @@ h1 {
 
 h2 {
   font-size: 1.5em;
-  margin: 1.25em 0 0.5em 0; 
+  margin: 1.25em 0 0.5em 0; /
 }
-
 
 .photo {
   border-radius: 100px; 
@@ -48,11 +44,9 @@ h2 {
   object-fit: cover;
 }
 
-
 .photo:hover {
   border: 3px solid #FFD700;
 }
-
 
 .bold-text {
   font-size: 1.5em; 
