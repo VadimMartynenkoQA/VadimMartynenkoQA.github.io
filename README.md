@@ -1,2 +1,2 @@
-Сайт-визика на HTML + CSS + JS
+Сайт-визика
 https://vadimmartynenkoqa.github.io/
