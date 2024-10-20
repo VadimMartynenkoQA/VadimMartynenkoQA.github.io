@@ -7,7 +7,6 @@ body {
   margin-left: 80px;
 }
 
-/* Свойства ссылок */
 a {
   display: block;
   text-decoration: none;
@@ -15,12 +14,10 @@ a {
   position: relative;
 }
 
-/* Что делать при наведении на ссылку */
 a:hover {
   color: #FFD700;
 }
 
-/* Этим свойством добавляем подчеркивание через создание псевдокласса */
 a::after {
   content: '';
   position: absolute;
@@ -37,24 +34,26 @@ h1 {
 
 h2 {
   font-size: 1.5em;
-  margin: 1.25em 0;
+  margin: 1.25em 0 0.5em 0; 
 }
 
-/* Свойства фотографии */
 .photo {
-  border-radius: 100px; /* Радиус скругления */
-  border: 3px solid transparent; /* Параметры рамки */
+  border-radius: 100px; 
+  border: 3px solid transparent; 
   box-shadow: 0 4px 15px 0px rgba(0, 0, 0, 0.52);
   object-fit: cover;
 }
 
-/* Эффект наведения на картинку */
 .photo:hover {
   border: 3px solid #FFD700;
 }
 
-/* Новый класс для текста "QA Engineer" */
 .bold-text {
-  font-size: 1.5em; /* Это соответствует размеру h2 */
-  font-weight: bold; /* Если хотите, чтобы текст был жирным */
+  font-size: 1.5em; 
+  font-weight: bold; 
+}
+
+p {
+  margin-top: 0; 
+  margin-bottom: 0.5em; 
 }
