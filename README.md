@@ -1,2 +1,2 @@
-Сайт-визика
+Сайт-визитка
 https://vadimmartynenkoqa.github.io/
